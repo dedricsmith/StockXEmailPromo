@@ -1,0 +1,182 @@
+<mjml>
+	<mj-head>
+		<mj-title> StockX Christmas Sales! </mj-title>
+		<mj-style> * { box-sizing: border-box; } </mj-style>
+		<mj-style inline="inline">
+			.button { font-weight: 400; } .link-nostyle { color: inherit;
+			text-decoration: none; } .heading-text { font-size: 26px; text-align:
+			center; } .footer-links { color: #000000; } @media only screen and
+			(max-width: 480px) { .header-image{ width: 100%; } }
+		</mj-style>
+	</mj-head>
+	<mj-body background-color="#ffffff">
+		<mj-include path="./components/header.mjml" />
+
+		<mj-raw>
+			<!-- Recent Releases -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-text align="center" font-family="Arial,san serif" font-size="20px">
+					<a href="www.stockx.com" class="link-nostyle">
+						🔥 Shop Recent Releases
+					</a>
+				</mj-text>
+				<mj-image src="http://127.0.0.1:5502/assets/border.png" height="1px">
+				</mj-image>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- First row  -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/nike-boots.jpg">
+				</mj-image>
+				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
+					<a href="www.stockx.com" class="link-nostyle">
+						Nike Air Terra Forma Off-White
+					</a>
+				</mj-text>
+			</mj-column>
+
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/nike-dunks.jpg">
+				</mj-image>
+				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
+					<a href="www.stockx.com" class="link-nostyle">
+						Jordan 1 Twist 2.0 (WMNS)
+					</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- New Balance row -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/new-balance.jpg">
+				</mj-image>
+				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
+					<a href="www.stockx.com" class="link-nostyle">
+						New Balance x Salehe Bembury
+					</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- Last row -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/nike-skate-o.jpg">
+				</mj-image>
+				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
+					<a href="www.stockx.com" class="link-nostyle">
+						Nike Dunk Concepts Orange Lobster
+					</a>
+				</mj-text>
+			</mj-column>
+
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/nike-skate.jpg">
+				</mj-image>
+				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
+					<a href="www.stockx.com" class="link-nostyle">
+						Jordan 1 Travis Scott Black Phantom
+					</a>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-raw>
+			<!-- Button -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-button
+					font-size="16px"
+					font-family="Arial, san-serif"
+					align="center"
+					background-color="#000000"
+					href="http://www.stockx.com/">
+					Shop More
+				</mj-button>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- Tracking -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image src="http://127.0.0.1:5502/assets/tracking.png" />
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- Discover More -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-text align="center" font-family="Arial,san serif" font-size="20px">
+					<a href="www.stockx.com" class="link-nostyle">
+						Discover More on StockX</a
+					>
+				</mj-text>
+				<mj-image src="http://127.0.0.1:5502/assets/border.png" height="1px">
+				</mj-image>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- First row  -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/hoodies.jpg">
+				</mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/women-shoes.png">
+				</mj-image>
+			</mj-column>
+		</mj-section>
+
+		<mj-raw>
+			<!-- Second row  -->
+		</mj-raw>
+		<mj-section>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/headwear.png">
+				</mj-image>
+			</mj-column>
+			<mj-column>
+				<mj-image
+					href="www.stockx.com"
+					src="http://127.0.0.1:5502/assets/bags.png">
+				</mj-image>
+			</mj-column>
+		</mj-section>
+
+		<mj-include path="./components/footer.mjml" />
+	</mj-body>
+</mjml>

@@ -1,0 +1,23 @@
+<mj-raw>
+	<!-- Header -->
+</mj-raw>
+<mj-section>
+	<mj-column>
+		<mj-image
+			align="center"
+			width="600px"
+			src="http://127.0.0.1:5502/assets/header-img.jpg"
+			alt="Shop StockX Today"
+			href="http://www.stockx.com/"
+			css-class="header-image">
+		</mj-image>
+
+		<mj-button
+			align="center"
+			font-size="18px"
+			background-color="#000000"
+			href="http://www.stockx.com/">
+			Learn More
+		</mj-button>
+	</mj-column>
+</mj-section>
