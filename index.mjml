@@ -22,7 +22,7 @@
 						🔥 Shop Recent Releases
 					</a>
 				</mj-text>
-				<mj-image src="http://127.0.0.1:5502/assets/border.png" height="1px">
+				<mj-image src="https://i.imgur.com/Vp7jI1V.png" height="1px">
 				</mj-image>
 			</mj-column>
 		</mj-section>
@@ -32,9 +32,7 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/nike-boots.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/iONGm8R.jpeg">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -44,9 +42,7 @@
 			</mj-column>
 
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/nike-dunks.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/nKf9cKA.jpeg">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -61,9 +57,7 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/new-balance.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/4jXCXFa.jpeg">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -78,9 +72,7 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/nike-skate-o.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/vZeIbt6.jpeg">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -90,9 +82,7 @@
 			</mj-column>
 
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/nike-skate.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/ustFao6.jpeg">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -122,7 +112,7 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image src="http://127.0.0.1:5502/assets/tracking.png" />
+				<mj-image src="https://i.imgur.com/HAg76do.png" />
 			</mj-column>
 		</mj-section>
 
@@ -146,15 +136,11 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/hoodies.jpg">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/sWY6hlu.jpeg">
 				</mj-image>
 			</mj-column>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/women-shoes.png">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/sYWcn4P.png">
 				</mj-image>
 			</mj-column>
 		</mj-section>
@@ -164,15 +150,11 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/headwear.png">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/77qwbFQ.png">
 				</mj-image>
 			</mj-column>
 			<mj-column>
-				<mj-image
-					href="www.stockx.com"
-					src="http://127.0.0.1:5502/assets/bags.png">
+				<mj-image href="www.stockx.com" src="https://i.imgur.com/YehfUAZ.png">
 				</mj-image>
 			</mj-column>
 		</mj-section>

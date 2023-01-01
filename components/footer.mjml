@@ -22,8 +22,7 @@
 				</a>
 			</p>
 		</mj-text>
-		<mj-image width="50px" src="http://127.0.0.1:5502/assets/logo.png">
-		</mj-image>
+		<mj-image width="50px" src="https://i.imgur.com/Yw9YwHA.png"> </mj-image>
 
 		<mj-text
 			font-family="Arial, san serif"
@@ -43,27 +42,21 @@
 		</mj-text>
 
 		<mj-social icon-size="28px" inner-padding="6px" padding="0">
-			<mj-social-element href="#" src="/assets/facebook.png">
+			<mj-social-element href="#" src="https://i.imgur.com/l4rTGoL.png">
 			</mj-social-element>
-			<mj-social-element href="#" src="/assets/twitter.png">
+			<mj-social-element href="#" src="https://i.imgur.com/qsh4oSd.png">
 			</mj-social-element>
-			<mj-social-element href="#" src="/assets/instagram.png">
+			<mj-social-element href="#" src="https://i.imgur.com/SfpTbl0.png">
 			</mj-social-element>
-			<mj-social-element href="#" src="/assets/youtube.png">
+			<mj-social-element href="#" src="https://i.imgur.com/L6ujTq4.png">
 			</mj-social-element>
-			<mj-social-element href="#" src="/assets/discord.png">
+			<mj-social-element href="#" src="https://i.imgur.com/x50DP6K.png">
 			</mj-social-element>
 		</mj-social>
 
-		<mj-image
-			href="#"
-			width="190px"
-			src="http://127.0.0.1:5502/assets/apps.png">
+		<mj-image href="#" width="190px" src="https://i.imgur.com/vHasvJw.png">
 		</mj-image>
-		<mj-image
-			href="#"
-			width="300px"
-			src="http://127.0.0.1:5502/assets/secure-pay.png">
+		<mj-image href="#" width="300px" src="https://i.imgur.com/vlnLyAh.png">
 		</mj-image>
 	</mj-column>
 </mj-section>
