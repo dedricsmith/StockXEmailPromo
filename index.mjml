@@ -6,7 +6,7 @@
 			.button { font-weight: 400; } .link-nostyle { color: inherit;
 			text-decoration: none; } .heading-text { font-size: 26px; text-align:
 			center; } .footer-links { color: #000000; } @media only screen and
-			(max-width: 480px) { .header-image{ width: 100%; } }
+			(max-width: 480px) { .header-image { width: 100%; } }
 		</mj-style>
 	</mj-head>
 	<mj-body background-color="#ffffff">
@@ -22,7 +22,10 @@
 						🔥 Shop Recent Releases
 					</a>
 				</mj-text>
-				<mj-image src="https://i.imgur.com/Vp7jI1V.png" height="1px">
+				<mj-image
+					src="https://i.imgur.com/Vp7jI1V.png"
+					height="1px"
+					alt="Product 1">
 				</mj-image>
 			</mj-column>
 		</mj-section>
@@ -32,7 +35,10 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/iONGm8R.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/iONGm8R.jpeg"
+					alt="Product 2">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -42,7 +48,10 @@
 			</mj-column>
 
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/nKf9cKA.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/nKf9cKA.jpeg"
+					alt="Product 3">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -57,7 +66,10 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/4jXCXFa.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/4jXCXFa.jpeg"
+					alt="Product 4">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -72,7 +84,10 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/vZeIbt6.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/vZeIbt6.jpeg"
+					alt="Product 5">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -82,7 +97,10 @@
 			</mj-column>
 
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/ustFao6.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/ustFao6.jpeg"
+					alt="Product 6">
 				</mj-image>
 				<mj-text font-family="Arial, san-serif" align="center" font-size="16px">
 					<a href="www.stockx.com" class="link-nostyle">
@@ -112,7 +130,9 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image src="https://i.imgur.com/HAg76do.png" />
+				<mj-image
+					src="https://i.imgur.com/HAg76do.png"
+					alt="Holiday Cards Image" />
 			</mj-column>
 		</mj-section>
 
@@ -126,7 +146,10 @@
 						Discover More on StockX</a
 					>
 				</mj-text>
-				<mj-image src="http://127.0.0.1:5502/assets/border.png" height="1px">
+				<mj-image
+					src="http://127.0.0.1:5502/assets/border.png"
+					height="1px"
+					alt="Border">
 				</mj-image>
 			</mj-column>
 		</mj-section>
@@ -136,11 +159,17 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/sWY6hlu.jpeg">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/sWY6hlu.jpeg"
+					alt="Hoodies">
 				</mj-image>
 			</mj-column>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/sYWcn4P.png">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/sYWcn4P.png"
+					alt="Women's Shoes">
 				</mj-image>
 			</mj-column>
 		</mj-section>
@@ -150,11 +179,17 @@
 		</mj-raw>
 		<mj-section>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/77qwbFQ.png">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/77qwbFQ.png"
+					alt="Headwear">
 				</mj-image>
 			</mj-column>
 			<mj-column>
-				<mj-image href="www.stockx.com" src="https://i.imgur.com/YehfUAZ.png">
+				<mj-image
+					href="www.stockx.com"
+					src="https://i.imgur.com/YehfUAZ.png"
+					alt="Bags">
 				</mj-image>
 			</mj-column>
 		</mj-section>
